@@ -1,4 +1,4 @@
-# Goodcabs-Performance-Analysis--SQL-Project
+# Goodcabs Performance Analysis - SQL Project
 
 ## 📌 Project Overview
 This project analyzes the performance of Goodcabs, a ride-hailing service operating in tier-2 cities, using SQL. It evaluates key business metrics such as trip volume, passenger behavior, revenue growth, and performance against company targets. The analysis provides data-driven insights and recommendations to optimize operations and improve customer satisfaction.<br />
