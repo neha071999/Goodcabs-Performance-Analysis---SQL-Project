@@ -48,6 +48,6 @@ Based on the findings, the following actions are suggested:<br />
 **4.** Expand in High-Growth Cities: Focus marketing efforts where demand is rising.<br />
 
 ## 📌 Project Files
-Goodcabs Performance Analysis.sql - SQL scripts for analysis<br />
-Goodcabs Performance Analysis - SQL Project.pdf - Report with insights and visualizations<br />
-meta_data.txt - Database Schema details for tables<br />
+**Goodcabs Performance Analysis** - [SQL scripts for analysis](https://github.com/neha071999/Goodcabs-Performance-Analysis---SQL-Project/blob/main/Goodcabs%20Performance%20Analysis.sql)<br />
+**Goodcabs Performance Analysis - SQL Project** - [Report with insights and visualizations](https://github.com/neha071999/Goodcabs-Performance-Analysis---SQL-Project/blob/main/Goodcabs%20Performance%20Analysis%20-%20SQL%20%20Project.pdf)<br />
+**Database Schemas** - [Database Schemas details for tables](https://github.com/neha071999/Goodcabs-Performance-Analysis---SQL-Project/blob/main/database_schemas.zip)<br />
